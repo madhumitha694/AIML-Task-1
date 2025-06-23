@@ -16,3 +16,4 @@ Data preprocessing means turning messy, raw data into clean, organized data that
 7.Visualized and removed outliers in Fare using boxplots and IQR method.
 
 [output task-1.pdf](https://github.com/user-attachments/files/20860850/output.task-1.pdf)
+[Uploading DataCleaningPreprocessing tast 1 output.pdf…]()
